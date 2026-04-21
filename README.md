@@ -8,7 +8,7 @@
 
 - 🌍&nbsp; I'm based in Kampala, Uganda.
   
-- 🌱&nbsp; I'm currently perfecting React.
+- 🌱&nbsp; I'm currently perfecting php.
   
 - 🚀&nbsp; I'm also <a href="http://tharasystems.com" rel="nofollow"> cooking! 😎</a>
 
