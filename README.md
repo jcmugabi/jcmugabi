@@ -6,11 +6,11 @@
 ### <div align="center">I'm Mugabi, a growing software engineer.</div>
 
 ### Intro:   
-- ###### Versatile Software Engineer with over 3 years of experience in frontend development, building modern, responsive, and user-focused digital solutions. Proficient in HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap, and Figma, with strong experience creating scalable, high-performance web applications. Also experienced in cross-platform mobile development using Flutter for Android and iOS.
+- #### Versatile Software Engineer with over 3 years of experience in frontend development, building modern, responsive, and user-focused digital solutions. Proficient in HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap, and Figma, with strong experience creating scalable, high-performance web applications. Also experienced in cross-platform mobile development using Flutter for Android and iOS.
   
   
 
-- ###### Skilled in Git and Bash for efficient workflows and collaboration. Currently expanding into backend engineering with PHP and Laravel, while working with MySQL and MongoDB and learning containerization for scalable deployments. Passionate about MVC and clean architecture, continuous growth, and building reliable end-to-end systems.  
+- #### Skilled in Git and Bash for efficient workflows and collaboration. Currently expanding into backend engineering with PHP and Laravel, while working with MySQL and MongoDB and learning containerization for scalable deployments. Passionate about MVC and clean architecture, continuous growth, and building reliable end-to-end systems.  
   
 
 <br/>  
