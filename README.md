@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on an Agric-tech mgt product.
   
-- 🌱&nbsp; I'm currently learning containerization.
+- 🌱&nbsp; I'm currently perfecting laravel.
   
 - 🚀&nbsp; I'm also <a href="http://tharasystems.com" rel="nofollow"> cooking! 😎</a>
 
