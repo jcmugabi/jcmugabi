@@ -24,7 +24,7 @@
   
 - 🚀&nbsp; I'm also <a href="http://tharasystems.com" rel="nofollow"> cooking! 😎</a>
 
-- ❓ Ask me about anything related to php and related technologies.
+- ❓ Ask me anything about php and related technologies.
   
 - ⚡ Fun fact: I use tabs over spaces.
   
