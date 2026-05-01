@@ -18,7 +18,7 @@
 
 - 🌍&nbsp; I'm based in Kampala, Uganda.
 
-- 🔭 I’m currently working on an Agric-tech mgt product.
+- 🔭 I’m currently building an Agric-tech mgt product.
   
 - 🌱&nbsp; I'm currently perfecting laravel.
   
