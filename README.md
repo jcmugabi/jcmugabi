@@ -26,7 +26,7 @@
 
 - ❓ Ask me anything about php and related technologies.
   
-- ⚡ Fun fact: I use tabs over spaces.
+- ⚡ Fun fact: I use tabs over spaces. 😂
   
 - ✉️&nbsp; You can contact me at <a href="mailto:josephcharlesmugabi@gmail.com">josephcharlesmugabi@gmail.com</a>
   
