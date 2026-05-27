@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mugabi, a growing software engineer.</div>
+### <div align="center">I'm Mugabi, a growing software engineer!</div>
 
 ### Intro:   
 - #### Versatile Software Engineer with over 3 years of experience in frontend development, building modern, responsive, and user-focused digital solutions. Proficient in HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap, and Figma, with strong experience creating scalable, high-performance web applications. Also experienced in cross-platform mobile development using Flutter for Android and iOS.
