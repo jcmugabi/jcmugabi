@@ -18,9 +18,9 @@
 
 - 🔭 I’m currently building an agric-tech management product.
   
-- 🌱&nbsp; I'm currently perfecting laravel.
+- 🌱&nbsp; Perfecting laravel at the moment.
   
-- 🚀&nbsp; I'm also <a href="http://tharasystems.com" rel="nofollow"> cooking! 😎</a>
+- 🚀&nbsp; I'm also <a href="http://tharasystems.com" rel="nofollow"> cooking!</a> 😎
 
 - ❓ Ask me anything about php and related technologies.
   
